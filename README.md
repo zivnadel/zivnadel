@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./me.gif"/>
+  <img src="./ziv.gif"/>
 </div>
